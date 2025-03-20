@@ -14,6 +14,7 @@ func main() {
 	g := game.New()
 
 	for {
+		// Player 1
 		r := bufio.NewReader(os.Stdin)
 		turn, err := r.ReadString('\n')
 		if err != nil {
