@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/zredinger-ccc/tic-tac-toe/compare/v1.0.0...v1.0.1) (2025-03-20)
+
+
+### Bug Fixes
+
+* Fix a bug ([c9eb966](https://github.com/zredinger-ccc/tic-tac-toe/commit/c9eb9661fe9c39ac930e8d1d46bb363d0810b735))
+
 ## 1.0.0 (2025-03-20)
 
 
