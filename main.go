@@ -12,7 +12,7 @@ import (
 
 func main() {
 	g := game.New()
-
+	// game loop
 	for {
 		r := bufio.NewReader(os.Stdin)
 		turn, err := r.ReadString('\n')
