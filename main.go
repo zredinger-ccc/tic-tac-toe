@@ -30,7 +30,7 @@ func main() {
 		}
 
 		if g.IsGameOver() {
-			fmt.Println("Game Over, no winner!!!")
+			fmt.Println("Game Over, no winner!!")
 			break
 		}
 	}
