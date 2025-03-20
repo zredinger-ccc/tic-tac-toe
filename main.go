@@ -24,7 +24,7 @@ func main() {
 
 		g.Render()
 		if g.IsGameWon() {
-			fmt.Println("GAME WON:)")
+			fmt.Println("GAME WON!")
 
 			break
 		}
