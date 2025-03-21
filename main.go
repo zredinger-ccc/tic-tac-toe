@@ -27,7 +27,7 @@ func main() {
 			fmt.Println("GAME WON!")
 
 			break
-		}
+		} // a comment
 
 		if g.IsGameOver() {
 			fmt.Println("Game Over, no winner!!")
